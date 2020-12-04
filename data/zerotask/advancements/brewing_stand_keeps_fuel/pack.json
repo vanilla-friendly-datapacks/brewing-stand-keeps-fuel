@@ -6,12 +6,12 @@
   },
   "display": {
     "announce_to_chat": false,
-    "description": "",
+    "description": "Mine them with Silk Touch!",
     "icon": {
-      "item": ""
+      "item": "minecraft:brewing_stand"
     },
     "show_toast": false,
-    "title": ""
+    "title": "Brewing Stand keeps fuel"
   },
   "parent": "global:zerotask"
 }

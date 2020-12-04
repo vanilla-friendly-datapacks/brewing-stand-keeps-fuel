@@ -4,3 +4,5 @@
 #                                                                     #
 # If applicable, credit to other people's work is given in the readme #
 #######################################################################
+
+scoreboard objectives remove zt.bskf.var
